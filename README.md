@@ -16,7 +16,10 @@ Advanced AI-powered video enhancement platform with realtime upscaling, cinemati
 <img src="https://img.shields.io/github/v/release/SpeedAssassinNet/VisionAI-Enhancer?style=for-the-badge&color=red">
 <img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/4K-UPSCALE-darkgreen?style=for-the-badge">
-
+<img src="https://img.shields.io/badge/RTX-ACCELERATED-76B900?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/4K-UPSCALE-purple?style=for-the-badge">
 # QUICK START
 
 ```bash
