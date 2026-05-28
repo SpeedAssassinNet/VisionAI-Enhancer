@@ -81,6 +81,17 @@ inside one high-performance desktop interface.
 | Cinematic Rendering | Improved visual depth      |
 | GPU Optimization    | Fast processing            |
 
+# RENDER PERFORMANCE
+
+```ini
+[Performance]
+GPU_Acceleration=Enabled
+RealtimeProcessing=True
+VRAM_Usage=Optimized
+RenderMode=Cinematic
+AI_Threads=32
+```
+
 ---
 
 # QUICK START
