@@ -1,6 +1,10 @@
 # VisionAI-Enhancer
 Advanced AI-powered video enhancement platform with realtime upscaling, cinematic rendering and neural frame interpolation.
 
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
+
 # VISIONAI ENHANCER
 
 ### AI-POWERED VIDEO UPSCALING PLATFORM
