@@ -1,0 +1,19 @@
+name: VisionAI Build
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Package
+        run: zip -r VisionAI.zip .
+
+      - name: Upload Release
+        uses: softprops/action-gh-release@v2
