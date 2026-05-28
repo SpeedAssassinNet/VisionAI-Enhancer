@@ -13,6 +13,18 @@ Advanced AI-powered video enhancement platform with realtime upscaling, cinemati
 <img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/4K-UPSCALE-darkgreen?style=for-the-badge">
 
+# QUICK START
+
+```bash
+1. Download latest release
+2. Extract archive
+3. Launch VisionAI.exe
+4. Import video
+5. Start AI enhancement
+```
+
+# ► [DOWNLOAD NOW](../../releases/latest)
+
 <br><br>
 
 # ► [DOWNLOAD LATEST RELEASE](../../releases/latest)
