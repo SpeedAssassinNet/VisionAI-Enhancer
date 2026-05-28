@@ -35,16 +35,6 @@ Advanced AI-powered video enhancement platform with realtime upscaling, cinemati
 
 ### Cinematic AI Video Enhancement Engine
 
-# SYSTEM STATUS
-
-```diff
-+ AI Engine Online
-+ RTX Rendering Enabled
-+ Motion Analysis Active
-+ Neural Upscaling Ready
-+ GPU Acceleration Connected
-```
-
 </div>
 
 ---
@@ -71,6 +61,16 @@ inside one high-performance desktop interface.
 <p align="center">
   <img src="./dashboard-preview.png" width="100%">
 </p>
+
+# SYSTEM STATUS
+
+```diff
++ AI Engine Online
++ RTX Rendering Enabled
++ Neural Upscaling Active
++ Motion Smoothing Running
++ GPU Acceleration Connected
+```
 
 ---
 
