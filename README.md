@@ -60,7 +60,9 @@ inside one high-performance desktop interface.
 ---
 
 # PLATFORM PREVIEW
-
+<p align="center">
+  <img src="./app-interface.png" width="100%">
+</p>
 <p align="center">
   <img src="./dashboard-preview.png" width="100%">
 </p>
